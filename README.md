@@ -20,4 +20,9 @@ Intermediate-level Python exercises.
 - Jupyter Notebook
 
 ## Author
-AI Engineer
+Buthaina Al-Surmi
+
+## Acknowledgment
+
+Exercises provided as part of Lara Wahbi's Python course.
+Solutions implemented by Buthaina Al-Surmi.
